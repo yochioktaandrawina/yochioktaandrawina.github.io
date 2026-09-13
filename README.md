@@ -29,13 +29,16 @@ defended 28 August 2026; degree conferral 30 September 2026.
   LinkedIn), and fix its affiliation typo "Nanyang Technology University".
 - Add a CV PDF and link it from the hero.
 - Link the thesis once it is deposited in DR-NTU.
-- Decide whether to keep the GitHub chip: the account currently holds forks only.
 - Deposit a green open-access copy of the Journal of Coastal Conservation paper.
 
-## Things to confirm with Yochi
+## Settled 13 September 2026
 
-- Which journal the 2026 reclamation preprint is under review at (the page says "under review")
-- Exact name of the Dr Stephen Riady award (her CV calls it the "Stephen Riady Geoscience
-  Scholarship", an NTU ASE news page called it the "Dr Stephen Riady Geoscience Scholars Fund")
-- Titles for the ECRS 2024 Naples and MER Summit 2022 Bilbao talks
-- Whether she wants fieldwork photographs on the site
+- GitHub chip removed: the account holds forks only. Re-add it if she publishes analysis code.
+- Award name: use "Dr Stephen Riady Geoscience Scholars Fund".
+- The 2026 reclamation preprint stays tagged "under review" without naming the journal.
+- Fieldwork is described in prose in the About section. No photographs for now; she can add them later.
+
+## Still to confirm with Yochi
+
+- Titles for the ECRS 2024 Naples and MER Summit 2022 Bilbao talks, which are currently listed
+  by conference name only
