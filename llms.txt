@@ -1,0 +1,48 @@
+# Yochi Okta Andrawina, PhD
+
+> Coastal oceanographer at the Earth Observatory of Singapore and the Asian School of the
+> Environment, Nanyang Technological University (NTU), Singapore. Works on the biophysical
+> drivers of coral reef island shoreline change in Southeast Asia, combining field observations,
+> satellite remote sensing, and numerical modelling.
+
+- Name: Yochi Okta Andrawina (also indexed as Y. O. Andrawina, Yochi Andrawina)
+- Title: PhD, Coastal Oceanographer
+- Affiliation: Coral Reef Geomorphology group, Earth Observatory of Singapore / Asian School of the Environment, NTU
+- Location: Singapore
+- ORCID: 0000-0002-3362-1343
+- Website: https://yochioktaandrawina.github.io/
+- Contact: yochiokt001@e.ntu.edu.sg
+
+## PhD thesis
+
+Transforming Coasts: Natural and Anthropogenic Drivers of Change in Southeast Asia.
+Doctor of Philosophy, Nanyang Technological University. Defended 28 August 2026.
+Supervised by Kyle Morgan (NTU), Paul S. Kench (NUS), Adam D. Switzer (NTU).
+Three scales: a hydrodynamic and sediment transport model of reclamation impacts on
+Singapore's Southern Islands reefs; shoreline change on 110 reef islands across ten Southeast
+Asian marine ecoregions (2004 to 2024) tested against island morphometry; and an
+ecosystem-based coastal vulnerability assessment for Southeast Asia built with InVEST.
+
+## Research topics
+
+- Coral reef geomorphology and reef island shoreline change
+- Hydrodynamic and sediment transport modelling (MIKE 21) of coastal reclamation
+- Satellite remote sensing of shorelines
+- Ecosystem-based coastal vulnerability assessment (InVEST)
+- Sea-level change from tide gauges and satellite altimetry
+
+## Selected publications
+
+- Andrawina, Y. O., Kench, P. S., Sulardi, A., Switzer, A., Morgan, K. (2026). Quantifying coastal reclamation impacts on coral reefs through hydrodynamic-sediment modelling. SSRN preprint, under review. https://doi.org/10.2139/ssrn.6805282
+- Andrawina, Y. O., Büyüksalih, G., Gazioğlu, C., Liufandy, H. (2025). Coastal vulnerability analysis of the semi-enclosed water systems of the Sea of Marmara, Türkiye using InVEST model. Journal of Coastal Conservation. https://doi.org/10.1007/s11852-025-01126-w
+- Andrawina, Y. O., Setiawati, M. D., Hamel, P., Morgan, K. (2025). Assessing coastal vulnerability in Southeast Asia using the InVEST model. EGU General Assembly 2025. https://meetingorganizer.copernicus.org/EGU25/EGU25-9377.html
+- Andrawina, Y. O., Kench, P. S., Morgan, K. (2025). Resolving spatio-temporal patterns of suspended sediment flux on Singapore's coral reefs using a modelling approach. Bulletin of Marine Science 101(1), 5th Asia-Pacific Coral Reef Symposium abstracts.
+- Andrawina, Y. O., Kismawardhani, R. A., Rejeki, H. A. (2021). DINEOF reconstruction for creating long-term cloud-free sea surface temperature data records: a case study in Lombok Strait, Indonesia. IOP Conf. Ser.: Earth Environ. Sci. https://doi.org/10.1088/1755-1315/893/1/012069
+
+## Profiles
+
+- Google Scholar: https://scholar.google.com/citations?user=mOAMgwoAAAAJ
+- ORCID: https://orcid.org/0000-0002-3362-1343
+- ResearchGate: https://www.researchgate.net/profile/Yochi-Andrawina
+- LinkedIn: https://www.linkedin.com/in/yochi-okta-andrawina-4a443090/
+- Earth Observatory of Singapore: https://earthobservatory.sg/about-us/our-people/yochi-okta-andrawina

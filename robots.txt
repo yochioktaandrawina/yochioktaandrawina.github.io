@@ -1,0 +1,5 @@
+# https://yochioktaandrawina.github.io/
+User-agent: *
+Allow: /
+
+Sitemap: https://yochioktaandrawina.github.io/sitemap.xml

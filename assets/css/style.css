@@ -182,6 +182,15 @@ a:focus-visible {
   line-height: 1.12;
   letter-spacing: -0.01em;
   margin: 0 0 1.1rem;
+  text-wrap: balance;
+}
+
+.h1__suffix {
+  font-weight: 400;
+  font-size: 0.52em;
+  letter-spacing: 0.02em;
+  color: var(--ink-soft);
+  white-space: nowrap;
 }
 
 .hero__lede {
@@ -497,6 +506,100 @@ details.earlier summary:hover { color: var(--coral-deep); }
 }
 
 /* --------------------------------------------------------------------------
+   PhD thesis
+   -------------------------------------------------------------------------- */
+
+.thesis__title {
+  font-family: var(--serif);
+  font-size: 1.18rem;
+  font-weight: 560;
+  line-height: 1.4;
+  color: var(--ink);
+  margin: 1.3rem 0 0.5rem;
+  max-width: 32em;
+}
+
+.thesis__meta {
+  font-size: 0.88rem;
+  color: var(--ink-faint);
+  margin: 0 0 1.3rem;
+  max-width: 40em;
+  line-height: 1.6;
+}
+
+.thesis__chapters {
+  list-style: none;
+  counter-reset: chapter;
+  margin: 1.5rem 0 0;
+  padding: 0;
+  display: grid;
+  gap: 0.9rem;
+}
+
+.thesis__chapters li {
+  counter-increment: chapter;
+  position: relative;
+  background: var(--bg-raised);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--ocean);
+  border-radius: 0 12px 12px 0;
+  padding: 0.95rem 1.15rem 1rem 1.15rem;
+}
+
+.thesis__chapters li:nth-child(2) { border-left-color: var(--coral); }
+
+.thesis__scale {
+  display: block;
+  font-size: 0.74rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ocean);
+  margin-bottom: 0.3rem;
+}
+
+.thesis__chapters li:nth-child(2) .thesis__scale { color: var(--coral-deep); }
+
+.thesis__chapters p {
+  margin: 0;
+  font-size: 0.92rem;
+  color: var(--ink-soft);
+  line-height: 1.6;
+}
+
+.thesis__note {
+  font-size: 0.85rem;
+  color: var(--ink-faint);
+  font-style: italic;
+  margin: 1.1rem 0 0;
+}
+
+/* --------------------------------------------------------------------------
+   Awards & funding
+   -------------------------------------------------------------------------- */
+
+.awards { list-style: none; margin: 1.4rem 0 0; padding: 0; }
+
+.awards li {
+  display: grid;
+  grid-template-columns: 3.4rem 1fr;
+  gap: 1.1rem;
+  padding: 0.7rem 0;
+  border-bottom: 1px solid var(--line);
+  color: var(--ink-soft);
+  font-size: 0.94rem;
+}
+
+.awards li:last-child { border-bottom: none; }
+
+.awards__year {
+  font-family: var(--serif);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--ink-faint);
+}
+
+/* --------------------------------------------------------------------------
    Footer / contact
    -------------------------------------------------------------------------- */
 
@@ -568,6 +671,8 @@ details.earlier summary:hover { color: var(--coral-deep); }
 
   .pub { grid-template-columns: 1fr; gap: 0.15rem; }
   .pub__year { padding-top: 0; }
+
+  .awards li { grid-template-columns: 1fr; gap: 0.15rem; }
 }
 
 @media (max-width: 560px) {
